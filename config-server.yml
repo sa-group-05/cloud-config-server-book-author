@@ -9,4 +9,3 @@ eureka:
     instance:
       hostname: localhost
       
-welcome: group-05
