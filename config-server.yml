@@ -1,4 +1,3 @@
-welcome: group-05
 eureka:
   client:
     register-with-eureka:
