@@ -2,6 +2,4 @@ eureka:
   client:
     service-url:
       defaultZone: https://discovery-eureka-server.herokuapp.com/eureka
-  instance:
-    hostname: localhost
 
