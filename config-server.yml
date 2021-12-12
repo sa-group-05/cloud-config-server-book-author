@@ -7,5 +7,5 @@ eureka:
     service-url:
       defaultZone: https://discovery-eureka-server.herokuapp.com/
     instance:
-      hostname: localhost
+      hostname: discovery-eureka-server.herokuapp.com
 
