@@ -1,1 +1,5 @@
 welcome: group-05
+api-gateway: http://ec2-18-141-8-154.ap-southeast-1.compute.amazonaws.com:9191/
+author-service: http://ec2-54-151-248-195.ap-southeast-1.compute.amazonaws.com:8082/
+book-service: http://ec2-13-229-114-44.ap-southeast-1.compute.amazonaws.com:8081/
+eureka-server: https://discovery-eureka-server.herokuapp.com/
