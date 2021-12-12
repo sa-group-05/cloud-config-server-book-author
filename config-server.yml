@@ -1,9 +1,9 @@
 eureka:
   client:
     register-with-eureka:
-      value: true
+      value: false
     fetch-registry:
-      value: true;
+      value: false;
     service-url:
       defaultZone: http://discovery-eureka-server.herokuapp.com/
     instance:
